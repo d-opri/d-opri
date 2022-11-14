@@ -4,10 +4,13 @@ I'm Dani, a UX Designer based in Berlin and currently learning how to code.
 
 ![gif](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif)
 
+
 ## My skills 📜
 
 - FIGMA
 - UX Design
+- CSS, HTML
+- JavaScript
 
 
 ### Languages 🌐
@@ -17,7 +20,10 @@ I'm Dani, a UX Designer based in Berlin and currently learning how to code.
 | English       | C2                 |
 | German        | Native Language    |                                                                   
 
-> Note: This is not my real contribution graph :laughing:
+<br>
+
+> Here, have a random meme: 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 
