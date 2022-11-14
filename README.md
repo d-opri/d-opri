@@ -1,6 +1,8 @@
-### _Moin moin_ :octopus:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Moin+moin)](https://git.io/typing-svg)
+
 
 I'm Dani, a UX Designer based in Berlin and currently learning how to code.
+
 
 ![gif](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif)
 
