@@ -13,13 +13,15 @@ I'm Dani, a fresh Web Developer with UX Design experience.
 - UX Design
 - CSS, HTML
 - JavaScript
+- React
+- Next.js
 
 
 ### Languages 🌐
 
 | Language      | Proficiency        |
 | ------------- | ------------------ |
-| English       | C2                 |
+| English       | Professional       |
 | German        | Native Language    |                                                                   
 
 <br>
