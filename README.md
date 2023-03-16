@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Moin+moin)](https://git.io/typing-svg)
 
 
-I'm Dani, a UX Designer based in Berlin and currently learning how to code.
+I'm Dani, a fresh Web Developer with UX Design experience.
 
 
 ![gif](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif)
