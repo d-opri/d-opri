@@ -26,10 +26,6 @@ I'm Dani, a fresh Web Developer with UX Design experience.
 
 <br>
 
-> Here, have a random meme: 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-
 
 
 <!--
