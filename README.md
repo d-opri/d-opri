@@ -1,30 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Moin+moin)](https://git.io/typing-svg)
 
 
-I'm Dani, a fresh Web Developer with UX Design experience.
-
 
 ![gif](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif)
 
-
-## My skills 📜
-
-- FIGMA
-- UX Design
-- CSS, HTML
-- JavaScript
-- React
-- Next.js
-
-
-### Languages 🌐
-
-| Language      | Proficiency        |
-| ------------- | ------------------ |
-| English       | Professional       |
-| German        | Native Language    |                                                                   
-
-<br>
 
 
 
